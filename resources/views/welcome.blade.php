@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://github.com/laravel/laravel">GitHub Repository</a>
+                    <a href="https://github.com/fgescalona/crud-fides-escalona.git">GitHub Repository</a>
                 </div>
             </div>
         </div>
